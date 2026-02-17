@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "FML",
+  "base_artist": "Godsmack",
+  "createdAt": "2026-02-17T13:54:04.649541Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FML",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/01_FML_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FML (feat. The Weeknd)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/02_FML_(feat._The_Weeknd)_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FML (ft. The Weeknd & Caroline Shaw)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/03_FML_(ft._The_Weeknd_&_Caroline_Shaw)_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fml",
+      "artist": "Arizona Zervas",
+      "has_synced": true,
+      "path": "select/04_Fml_Arizona_Zervas.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "FML",
+      "artist": "Godsmack",
+      "has_synced": true,
+      "path": "select/05_FML_Godsmack.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "FML",
+      "artist": "Mabel",
+      "has_synced": true,
+      "path": "select/06_FML_Mabel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "FML (Stripped)",
+      "artist": "Mabel",
+      "has_synced": false,
+      "path": "select/07_FML_(Stripped)_Mabel.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "FML",
+      "artist": ":(",
+      "has_synced": false,
+      "path": "select/08_FML_(.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "FML",
+      "artist": "Colonopenbracket",
+      "has_synced": false,
+      "path": "select/09_FML_Colonopenbracket.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fml",
+      "artist": "Cold Hart",
+      "has_synced": true,
+      "path": "select/10_Fml_Cold_Hart.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "FML",
+      "artist": "Kanye West feat. The Weeknd",
+      "has_synced": true,
+      "path": "select/11_FML_Kanye_West_feat._The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "FML",
+      "artist": "Bausa",
+      "has_synced": true,
+      "path": "select/12_FML_Bausa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "FML",
+      "artist": "K.Flay",
+      "has_synced": true,
+      "path": "select/13_FML_K.Flay.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "FML",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/14_FML_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "FML [ft. The Weeknd]",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/15_FML_[ft._The_Weeknd]_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "FML",
+      "artist": "Godsmack",
+      "has_synced": true,
+      "path": "select/16_FML_Godsmack.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FML",
+      "artist": "Godsmack",
+      "has_synced": false,
+      "path": "select/pl_01_FML_Godsmack.txt"
+    }
+  ]
+}
